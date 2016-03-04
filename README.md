@@ -21,3 +21,6 @@
 
 # webpack
 + [Webpack 中文指南](https://www.gitbook.com/book/zhaoda/webpack/details)
+
+# JavaScript
++ [ECMAScript 6入门](https://github.com/ruanyf/es6tutorial)
