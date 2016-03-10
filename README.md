@@ -22,5 +22,8 @@
 # webpack
 + [Webpack 中文指南](https://www.gitbook.com/book/zhaoda/webpack/details)
 
+# Vue.js
++[官方文档](http://vuejs.org.cn/guide/)
+
 # JavaScript
 + [ECMAScript 6入门](https://github.com/ruanyf/es6tutorial)
