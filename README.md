@@ -25,6 +25,7 @@
 # Vue.js
 + [官方文档](http://vuejs.org.cn/guide/)
 + [Vuex](http://vuejs.github.io/vuex/)
++ [vue-router](http://vuejs.github.io/vue-router/)
 
 # JavaScript
 + [ECMAScript 6入门](https://github.com/ruanyf/es6tutorial)
