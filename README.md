@@ -9,6 +9,7 @@
 
 + [Android Gradle Plugin 中文文档](https://github.com/AvatarQing/Gradle-Plugin-User-Guide-Chinese-Verision)
 + [Gradle 中文文档](https://github.com/DONGChuan/GradleUserGuide)
++ [Gradle最佳实践](https://www.gitbook.com/book/benweizhu/gradle-best-practice/details)
 
 # Nodejs
 
